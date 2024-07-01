@@ -1,0 +1,14 @@
+.nav-bar {
+    display: flex;
+    align-items: center;
+}
+
+.head-text {
+    margin: 7px;
+    font-weight: bold;
+}
+
+.logo-img {
+    width: 100px;
+    border-radius: 50%;
+}

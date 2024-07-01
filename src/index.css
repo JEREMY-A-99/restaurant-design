@@ -1,0 +1,15 @@
+
+
+*{
+  font-family: "Poppins", sans-serif;
+  background-color: antiquewhite;
+}
+
+.view-data{
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 20px;
+}
